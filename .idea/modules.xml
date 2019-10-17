@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WordSpace.iml" filepath="$PROJECT_DIR$/.idea/WordSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemTime.iml" filepath="$PROJECT_DIR$/SystemTime.iml" />
     </modules>
   </component>
 </project>
