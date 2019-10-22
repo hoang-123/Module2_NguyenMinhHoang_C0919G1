@@ -17,7 +17,7 @@ public class SuDungLopIllegalTriangleException {
             System.out.println("Nhap canh thu 3 cua tam giac: ");
             double canhC = scanner.nextDouble();
 
-        }catch (IllegalThreadStateException e){
+        }catch (Exception e){
             System.err.println("Day khong phai la 3 canh cua tam giac");
         }
     }

@@ -3,9 +3,7 @@ package SS3_LopVaDoiTuongTrongJava.XayDungLopPhuongTrinhBac2;
 public class PhuongTrinhBac2 {
     float numA, numB, numC;
 
-    public float getNumA() {
-        return numA;
-    }
+    public float getNumA() { return numA; }
     public float getNumB() {
         return numB;
     }
