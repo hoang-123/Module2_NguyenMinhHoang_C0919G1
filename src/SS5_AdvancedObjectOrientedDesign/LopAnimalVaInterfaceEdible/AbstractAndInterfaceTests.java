@@ -13,12 +13,11 @@ public class AbstractAndInterfaceTests {
         Animal[] animals = new Animal[2];
         animals[0] = new Tiger();
         animals[1] = new Chicken();
-        for (Animal animal : animals) {
-            System.out.println(animal.makeSound());
+        for (Animal element : animals) {
+            System.out.println(element.makeSound());
 
-            if (animal instanceof Chicken) {
-                Endiable edibler = (Chicken) animal;
-                System.out.println(((Chicken) edibler).howToEat());
+            if (element instanceof Chicken) {
+                System.out.println(((Chicken) element).howToEat());
             }
         }
 

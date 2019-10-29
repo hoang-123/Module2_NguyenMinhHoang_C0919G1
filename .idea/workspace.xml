@@ -2,53 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2707c071-ee2b-4e45-8065-0868beafa1cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopFan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopStopWatch/Mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/HeCacDoiTuongHinhHoc/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/HeCacDoiTuongHinhHoc/HeHinhHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/HeCacDoiTuongHinhHoc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/HeCacDoiTuongHinhHoc/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/HeCacDoiTuongHinhHoc/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopCircleVaLopCylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopCircleVaLopCylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopCircleVaLopCylinder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopPoint2DvaLopPoint3D/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopPoint2DvaLopPoint3D/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopPoint2DvaLopPoint3D/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopPointVaLopMoveablePoint/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopPointVaLopMoveablePoint/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/LopPointVaLopMoveablePoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/ThietKeVaTrienKhaiLopTriangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/ThietKeVaTrienKhaiLopTriangle/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS4_KeThua/ThietKeVaTrienKhaiLopTriangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/AbstractAndInterfaceTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Animal/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Animal/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Endiable/Endiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Fruit/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Fruit/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Fruit/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Rectangle/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Rectangle/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Shape/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Square/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Square/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/DichVuDiKem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/KieuThue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/Villa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Controllers/FuncWriteFileCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Controllers/MainControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/commons-lang3-3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/opencsv-4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Views/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/ResizeableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/ColorableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaArrayList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaArrayList/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/TestMyLinkedLis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopListCoBan/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopListCoBan/MyListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS2_MangVaPhuongThucTrongJava/SuDungLopIllegalTriangleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS2_MangVaPhuongThucTrongJava/SuDungLopIllegalTriangleException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS2_MangVaPhuongThucTrongJava/XoaPhanTuKhoiMang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS2_MangVaPhuongThucTrongJava/XoaPhanTuKhoiMang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopFan/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopFan/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopPhuongTrinhBac2/PhuongTrinhBac2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopPhuongTrinhBac2/PhuongTrinhBac2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopStopWatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS3_LopVaDoiTuongTrongJava/XayDungLopStopWatch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Comparator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,14 +73,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/opencsv-4.6.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\SS5_AdvancedObjectOrientedDesign\TrienKhaiInterfaceComparator" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SS5_AdvancedObjectOrientedDesign.LopAnimalVaInterfaceEdible" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SS5_AdvancedObjectOrientedDesign.TrienKhaiLopColorable" />
+      <recent name="SS5_AdvancedObjectOrientedDesign.TrienKhaiInterfaceResizeable.Shape" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy\FuramaResort\Libs" />
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\SS5_AdvancedObjectOrientedDesign\TrienKhaiInterfaceComparator" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -97,13 +103,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CircleComparatorTest">
-    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SS5_AdvancedObjectOrientedDesign.LopAnimalVaInterfaceEdible.AbstractAndInterfaceTests" />
+  <component name="RunManager" selected="Application.LinkedListTest">
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiCacPhuongThucCuaLinkedList.LinkedListTest" />
       <module name="SystemTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SS5_AdvancedObjectOrientedDesign.LopAnimalVaInterfaceEdible.*" />
+          <option name="PATTERN" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiCacPhuongThucCuaLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SS5_AdvancedObjectOrientedDesign.TrienKhaiInterfaceComparator.CircleComparatorTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.FuramaResort.Views.Main" />
       <module name="SystemTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SS5_AdvancedObjectOrientedDesign.TrienKhaiInterfaceComparator.*" />
+          <option name="PATTERN" value="CaseStudy.FuramaResort.Views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SS4_KeThua.LopPoint2DvaLopPoint3D.Main" />
+    <configuration name="MainControllers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.FuramaResort.Controllers.MainControllers" />
       <module name="SystemTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SS4_KeThua.LopPoint2DvaLopPoint3D.*" />
+          <option name="PATTERN" value="CaseStudy.FuramaResort.Controllers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SS4_KeThua.ThietKeVaTrienKhaiLopTriangle.Main" />
+    <configuration name="MyListTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiCacPhuongThucCuaArrayList.MyListTest" />
       <module name="SystemTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SS4_KeThua.ThietKeVaTrienKhaiLopTriangle.*" />
+          <option name="PATTERN" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiCacPhuongThucCuaArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SS4_KeThua.LopPointVaLopMoveablePoint.Main" />
+    <configuration name="TestMyLinkedLis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiLopLinkedListDonGian.TestMyLinkedLis" />
       <module name="SystemTime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SS4_KeThua.LopPointVaLopMoveablePoint.*" />
+          <option name="PATTERN" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiLopLinkedListDonGian.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleComparatorTest" />
-        <item itemvalue="Application.AbstractAndInterfaceTests" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.MainControllers" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyListTest (1)" />
+        <item itemvalue="Application.TestMyLinkedLis" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +207,15 @@
       <workItem from="1571361495237" duration="12890000" />
       <workItem from="1571448682077" duration="11074000" />
       <workItem from="1571621160471" duration="16574000" />
-      <workItem from="1571706276181" duration="8969000" />
+      <workItem from="1571706276181" duration="14214000" />
+      <workItem from="1571758087674" duration="767000" />
+      <workItem from="1571792961957" duration="24641000" />
+      <workItem from="1571879386357" duration="17486000" />
+      <workItem from="1571966474482" duration="404000" />
+      <workItem from="1571967595776" duration="2991000" />
+      <workItem from="1571971350981" duration="6872000" />
+      <workItem from="1571985569913" duration="11433000" />
+      <workItem from="1572276432114" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="bt">
       <created>1571299762519</created>
@@ -210,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571299762519</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bt">
+      <created>1571715565651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571715565651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
