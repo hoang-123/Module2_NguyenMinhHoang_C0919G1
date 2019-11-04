@@ -1,4 +1,4 @@
-package Models;
+package CaseStudy.Models;
 
 public class Villa extends Service {
     private String roomStandard;
@@ -9,10 +9,10 @@ public class Villa extends Service {
     public Villa() {
     }
 
-    public Villa(String id, String nameService, double areaUsed, double retalCosts, int maxNumberOfPeople, String typeRent, String roomStandard, String convenientDesctiption, double areaPool, int numberOfFloors) {
+    public Villa(String id, String nameService, double areaUsed, double retalCosts, int maxNumberOfPeople, String typeRent, String roomStandard, String convenientDescription, double areaPool, int numberOfFloors) {
         super(id, nameService, areaUsed, retalCosts, maxNumberOfPeople, typeRent);
         this.roomStandard = roomStandard;
-        this.convenientDescription = convenientDesctiption;
+        this.convenientDescription = convenientDescription;
         this.areaPool = areaPool;
         this.numberOfFloors = numberOfFloors;
     }
@@ -25,12 +25,12 @@ public class Villa extends Service {
         this.roomStandard = roomStandard;
     }
 
-    public String getConvenientDesctiption() {
+    public String getConvenientDescription() {
         return convenientDescription;
     }
 
-    public void setConvenientDesctiption(String convenientDesctiption) {
-        this.convenientDescription = convenientDesctiption;
+    public void setConvenientDescription(String convenientDescription) {
+        this.convenientDescription = convenientDescription;
     }
 
     public double getAreaPool() {
@@ -59,7 +59,7 @@ public class Villa extends Service {
                 "\nMax Number of Peoples: " + super.getMaxNumberOfPeople()  +
                 "\nType Rent: " + super.getTypeRent()  +
                 "\nRoom Standard: " + roomStandard  +
-                "\nConvenient Desctiption='" + convenientDescription +
+                "\nConvenient Description='" + convenientDescription +
                 "\nArea Pool=" + areaPool +
                 "\nNumber Of Floors=" + numberOfFloors;
     }

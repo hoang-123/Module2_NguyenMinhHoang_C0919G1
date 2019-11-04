@@ -1,51 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2707c071-ee2b-4e45-8065-0868beafa1cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/DichVuDiKem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/KieuThue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/Services.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Commons/Villa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Controllers/FuncWriteFileCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Controllers/MainControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/commons-collections4-4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/commons-lang3-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/opencsv-4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Views/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/ComparableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/ResizeableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/ColorableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaArrayList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaArrayList/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/TestMyLinkedLis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopListCoBan/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopListCoBan/MyListTest.java" afterDir="false" />
+    <list default="true" id="2707c071-ee2b-4e45-8065-0868beafa1cb" name="Default Changelist" comment="bt">
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/CaseStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/src/Commons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/src/Commons/FuncValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/FileCabinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/SortName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Commons/FuncValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Data/Booking.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Data/Customer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Data/House.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Data/Villa.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Models/FileCabinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseStudy/Models/SortName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS8_CoSoDuLieuQuanHe/TaoKhoaChinh-KhoaNgoai.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS8_CoSoDuLieuQuanHe/ThaoTacVoiBangCSDL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS8_CoSoDuLieuQuanHe/ThucThiCacCauLenhSQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy/src/Commons/FunWriteAndReadFileCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy/src/Commons/FunWriteAndReadFileCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy/src/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy/src/Controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy/src/Models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy/src/Models/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy/src/Models/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy/src/Models/Villa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudy/src/Views/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudy/src/Views/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/MangVaPhuongThucTrongJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/out/production/MangVaPhuongThucTrongJava/ChuongTrinhChuyenDoiNhietDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/out/production/MangVaPhuongThucTrongJava/DaoNguocCacPhanTuCuaMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/out/production/MangVaPhuongThucTrongJava/TimGiaTriLonNhatTrongMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/out/production/MangVaPhuongThucTrongJava/TimGiaTriNhoNhatTrongMangBangPhuongThuc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/src/ChuongTrinhChuyenDoiNhietDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/src/DaoNguocCacPhanTuCuaMang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/src/TimGiaTriLonNhatTrongMang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MangVaPhuongThucTrongJava/src/TimGiaTriNhoNhatTrongMangBangPhuongThuc.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_collections4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_collections4_4_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/AbstractAndInterfaceTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Commons/DichVuDiKem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Commons/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Commons/KieuThue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Commons/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Commons/Services.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Commons/Villa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Controllers/FuncWriteFileCSV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Controllers/MainControllers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Libs/commons-collections4-4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Libs/commons-lang3-3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Libs/opencsv-4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/CaseStudy/FuramaResort/Views/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/GiaiPhuongTrinhBacNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/HienThi20SoNguyenToDauTien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/HienThiCacSoNguyenToNhoHon100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/HienThiLoiChao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/KhaiBaoVaSuDungBien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/KiemTraNamNhuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/KiemTraSoNguyenTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/SuDungToanTu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/TimUocChungLonNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/TinhChiSoCanNangCuaCoThe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/TinhSoNgayTrongThang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/UngDungDocSoThanhChu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS1_NgonNguLapTrinhJava/UngDungTinhTienLaiChoVay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/ChuongTrinhChuyenDoiNhietDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/DaoNguocCacPhanTuCuaMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/DemSoLanXuatHienCuaKiTuTrongChuoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/GopMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/Mang2Chieu_TinhTongCacSoDuongCheoChinhCuaMaTranVuong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/SuDungLopArrayIndexOutOfBoundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/SuDungLopIllegalTriangleException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/ThemPhanTuVaoMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/TimGiaTriLonNhatTrongMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/TimGiaTriNhoNhatTrongMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/TimGiaTriNhoNhatTrongMangBangPhuongThuc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/TimPhanTuLonNhatTrongMangHaiChieu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/TinhTongCacSoOMotSoCotXacDinh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/UngDungDemSoSinhVienThiDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS2_MangVaPhuongThucTrongJava/XoaPhanTuKhoiMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/LopHinhChuNhat/HinhChuNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/LopHinhChuNhat/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopFan/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopFan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopPhuongTrinhBac2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopPhuongTrinhBac2/PhuongTrinhBac2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopStopWatch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopStopWatch/Mang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS3_LopVaDoiTuongTrongJava/XayDungLopStopWatch/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/HeCacDoiTuongHinhHoc/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/HeCacDoiTuongHinhHoc/HeHinhHoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/HeCacDoiTuongHinhHoc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/HeCacDoiTuongHinhHoc/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/HeCacDoiTuongHinhHoc/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopCircleVaLopCylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopCircleVaLopCylinder/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopCircleVaLopCylinder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopPoint2DvaLopPoint3D/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopPoint2DvaLopPoint3D/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopPoint2DvaLopPoint3D/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopPointVaLopMoveablePoint/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopPointVaLopMoveablePoint/MovablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/LopPointVaLopMoveablePoint/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/ThietKeVaTrienKhaiLopTriangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/ThietKeVaTrienKhaiLopTriangle/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS4_KeThua/ThietKeVaTrienKhaiLopTriangle/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/AbstractAndInterfaceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Endiable/Endiable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Fruit/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/LopAnimalVaInterfaceEdible/Fruit/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Circle/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Rectangle/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Rectangle/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Shape/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Square/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceComparator/Square/SquareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/Comparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/ComparableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceConparable/ComparableCircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/HinhHoc/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiInterfaceResizeable/ResizeableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/ColorableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS5_AdvancedObjectOrientedDesign/TrienKhaiLopColorable/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaArrayList/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaArrayList/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiCacPhuongThucCuaLinkedList/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopLinkedListDonGian/TestMyLinkedLis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopListCoBan/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SystemTime/SS6_CauTrucDuLieuVaGiaiThuatCoBan/TrienKhaiLopListCoBan/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Commons/FunWriteAndReadFileCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Commons/FunWriteAndReadFileCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Models/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Models/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Models/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Models/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Models/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Models/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Models/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Models/Villa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseStudy/Views/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Views/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/SystemTime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/GiaiPhuongTrinhBacNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/HienThi20SoNguyenToDauTien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/HienThiCacSoNguyenToNhoHon100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/HienThiLoiChao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/KhaiBaoVaSuDungBien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/KiemTraNamNhuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/KiemTraSoNguyenTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/SuDungToanTu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/TimUocChungLonNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/TinhChiSoCanNangCuaCoThe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/TinhSoNgayTrongThang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/UngDungDocSoThanhChu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/out/production/SystemTime/UngDungTinhTienLaiChoVay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/GiaiPhuongTrinhBacNhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/HienThi20SoNguyenToDauTien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/HienThiCacSoNguyenToNhoHon100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/HienThiLoiChao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/KhaiBaoVaSuDungBien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/KiemTraNamNhuan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/KiemTraSoNguyenTo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/SuDungToanTu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/TimUocChungLonNhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/TinhChiSoCanNangCuaCoThe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/TinhSoNgayTrongThang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/UngDungDocSoThanhChu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/src/UngDungTinhTienLaiChoVay.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,22 +229,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CaseStudy/FuramaResort/Libs/opencsv-4.6.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CaseStudy/Libs/opencsv-4.6.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="SS5_AdvancedObjectOrientedDesign.LopAnimalVaInterfaceEdible" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy" />
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy\Views" />
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy\Models" />
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy\Data" />
+      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy\Controllers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="SS5_AdvancedObjectOrientedDesign.TrienKhaiLopColorable" />
       <recent name="SS5_AdvancedObjectOrientedDesign.TrienKhaiInterfaceResizeable.Shape" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\CaseStudy\FuramaResort\Libs" />
-      <recent name="E:\WordSpace\Module2_NguyenMinhHoang_C0919G1\src\SS5_AdvancedObjectOrientedDesign\TrienKhaiInterfaceComparator" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SS5_AdvancedObjectOrientedDesign.LopAnimalVaInterfaceEdible" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -103,13 +263,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListTest">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiCacPhuongThucCuaLinkedList.LinkedListTest" />
       <module name="SystemTime" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiCacPhuongThucCuaLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Views.Main" />
+      <module name="SystemTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CaseStudy.Views.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,26 +329,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyLinkedLis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiLopLinkedListDonGian.TestMyLinkedLis" />
-      <module name="SystemTime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SS6_CauTrucDuLieuVaGiaiThuatCoBan.TrienKhaiLopLinkedListDonGian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.MainControllers" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyListTest (1)" />
-        <item itemvalue="Application.TestMyLinkedLis" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +376,11 @@
       <workItem from="1571971350981" duration="6872000" />
       <workItem from="1571985569913" duration="11433000" />
       <workItem from="1572276432114" duration="68000" />
+      <workItem from="1572321739481" duration="103000" />
+      <workItem from="1572504203854" duration="793000" />
+      <workItem from="1572514852605" duration="935000" />
+      <workItem from="1572571844204" duration="490000" />
+      <workItem from="1572830825173" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="bt">
       <created>1571299762519</created>

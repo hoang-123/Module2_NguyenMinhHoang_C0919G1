@@ -1,0 +1,11 @@
+id,nameService,areaUsed,rentalCosts,maxNumberOfPeople,typeRent,roomStandard,convenientDescription,areaPool,numberOfFloors
+89f8ea4903d9429b964097db1ea86ee9,Villa,45.0,0.0,10,Month,Hoang,,45.0,4
+315468aff8f44d99b6ae46509d656357,Hoang,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Hung,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Hung,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Hung,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Hoang,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Trung,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Trung,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Hoang,45.0,10.0,10,Day,Vip,hoang,32.0,7
+315468aff8f44d99b6ae46509d656357,Hoang,45.0,10.0,10,Day,Vip,hoang,32.0,7

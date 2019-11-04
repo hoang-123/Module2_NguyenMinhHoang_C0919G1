@@ -1,4 +1,4 @@
-package Models;
+package CaseStudy.Models;
 
 public class Room extends Service {
     private String freeService;

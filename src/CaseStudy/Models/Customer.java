@@ -1,6 +1,7 @@
-package Models;
+package CaseStudy.Models;
 
 public class Customer {
+    private String idCus;
     private String nameCustomer;
     private String gender;
     private int idCard;
@@ -14,16 +15,24 @@ public class Customer {
     public Customer() {
     }
 
-    public Customer(String nameCustomer, String gender, int idCard, int phone, String mail, String typeCustomer, String address, String birthday, Service service) {
+    public Customer(String idCus, String nameCustomer, String gender, int idCard, int phone, String mail, String typeCustomer, String address, String birthday) {
+        this.idCus = idCus;
         this.nameCustomer = nameCustomer;
         this.gender = gender;
         this.idCard = idCard;
         this.phone = phone;
         this.mail = mail;
         this.typeCustomer = typeCustomer;
-        Address = address;
+        this.Address = address;
         this.birthday = birthday;
-        this.service = service;
+//        this.service = service;
+    }
+
+    public String getIdCus() {
+        return idCus;
+    }
+    public void setIdCus(String idCus) {
+        this.idCus = idCus;
     }
 
     public String getNameCustomer() {
@@ -99,13 +108,14 @@ public class Customer {
     }
 
     public String showInfor() {
-        return "\nName Customer='" + nameCustomer +
-                "\nGender='" + gender +
-                "\nId Card=" + idCard +
-                "\nPhone=" + phone +
-                "\nMail='" + mail  +
-                "\nType Customer='" + typeCustomer +
-                "\nAddress='" + Address +
+        return "\nId Customer: " + idCus+
+                "\nName Customer: " + nameCustomer +
+                "\nGender: " + gender +
+                "\nId Card: " + idCard +
+                "\nPhone: " + phone +
+                "\nMail: " + mail  +
+                "\nType Customer: " + typeCustomer +
+                "\nAddress: " + Address +
                 "\nBirthday: " + birthday;
     }
 }

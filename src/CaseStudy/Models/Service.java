@@ -1,4 +1,4 @@
-package Models;
+package CaseStudy.Models;
 
 public abstract class Service {
     private String id;

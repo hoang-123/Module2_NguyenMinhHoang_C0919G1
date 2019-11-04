@@ -1,4 +1,4 @@
-package Models;
+package CaseStudy.Models;
 
 public class House extends Service {
     private String roomStandard;
@@ -48,7 +48,7 @@ public class House extends Service {
                 "\nMax Number of Peoples: " + super.getMaxNumberOfPeople()  +
                 "\nType Rent: " + super.getTypeRent()  +
                 "\nRoom Standard: " + roomStandard  +
-                "\nConvenient Desctiption='" + convenientDescription +
+                "\nConvenient Description='" + convenientDescription +
                 "\nNumber Of Floors=" + numberOfFloors;
     }
 }
