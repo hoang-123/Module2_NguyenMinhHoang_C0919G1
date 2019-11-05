@@ -567,10 +567,22 @@ public class MainController {
         fileCabinet.showFile.push(employee10);
         System.out.println("List Employee in Resort: ");
         while (!fileCabinet.showFile.isEmpty()) {
-            System.out.println(fileCabinet.showFile.pop().getNameEmployee());
+            System.out.println("Id: " + fileCabinet.showFile.pop().getIdEmployee() + " Name Employee: "+ fileCabinet.showFile.pop().getNameEmployee());
         }
         System.out.println("Choose Employee You Want Find: ");
-        int choose = sc.nextInt();
+        String choose = sc.nextLine();
+        try {
+            while (true) {
+                if (fileCabinet.showFile.peek().getIdEmployee() != choose) {
+                    fileCabinet.showFile.pop();
+                } else {
+                    System.out.println(fileCabinet.showFile.peek().toString());
+                    break;
+                }
+            }
+        } catch (EmptyStackException ex) {
+            System.out.print("key invalid, please try again");
+        }
 
 
 

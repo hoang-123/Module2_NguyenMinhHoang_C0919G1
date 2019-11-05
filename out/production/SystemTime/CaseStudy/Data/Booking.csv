@@ -1,0 +1,4 @@
+idCus,nameCustomer,gender,idCard,phone,mail,typeCustomer,address,birthday,id,nameService,areaUsed,rentalCosts,maxNumberOfPeople,typeRent
+2e903a3272884b689f579ffce6e87b51,Haong,female,123456789,123456,haong@gmai.com,Vip,quang tri,12/02/1999,89f8ea4903d9429b964097db1ea86ee9,Villa,45.0,0.0,10,Month
+2e903a3272884b689f579ffce6e87b51,Haong,female,123456789,123456,haong@gmai.com,Vip,quang tri,12/02/1999,315468aff8f44d99b6ae46509d656357,Hung,45.0,0.0,10,Day
+0a49eb11c17548f2949c9bfeb0da9897,Minh,maLe,456789123,123456,male@mai.com,Ok,Da Dang,12/8/2000,315468aff8f44d99b6ae46509d656357,Hung,45.0,0.0,10,Day
