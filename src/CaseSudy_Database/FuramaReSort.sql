@@ -159,15 +159,16 @@ insert into KieuThue(IDKieuThue, TenKieuThue, Gia) value
 (2, 'Theo gio', 50);
 insert into DichVu(IDDichVu, TenDichVu, DienTich, SoTang, SoNguoiToiDa, ChiPhiThue, IDKieuThue, IDLoaiDichVu, TrangThai) value
 (001, 'Villa', 25, 3, '15', 'max', 1, 01, 'good'),
-(002, 'House', 30, 3, '20', 'Min', 2, 02, 'TB');
+(002, 'House', 30, 3, '20', 'Min', 2, 02, 'TB'),
+(003, 'Room', 30, 3, '20', 'Min', 2, 02, 'TB');
 insert into DichVuDiKem(IDDichVuDiKem, TenDichVuDikem, Gia, DonVi, TrangThaiKhaDung) value
 (01, 'Massage', 300, 20, 'ok'),
 (02, 'Bar', 500, 20, 'ok');
 insert into HopDong(IDHopDong, IDNhanVien, IDKhachHang, IDDichVu, NgayLamHopDong, NgayKetThuc, TienDatCoc, TongTien) value
 (011, 11, 012, 01, '2018/01/02', '2019/12/25', 500, 100000),
 (012, 12, 012, 02, '2019/10/02', '2019/10/11', 500, 100000),
-(013, 13, 015, 01, '2019/11/02', '2019/04/11', 500, 200000),
-(014, 14, 011, 02, '2017/03/02', '2019/02/11', 500, 200000);
+(013, 13, 015, 03, '2019/11/02', '2019/04/11', 500, 200000),
+(014, 14, 011, 02, '2018/03/02', '2019/02/11', 500, 200000);
 insert into HopDongChiTiet(IDHopDongChiTiet, IDHopDong, IDDichVuDiKem, SoLuong) value
 (1, 011, 01, 2),
 (2, 011, 01, 2);
@@ -195,9 +196,50 @@ group by KhachHang.HoTen;
 
 select DichVu.IDDichVu, DichVu.TenDichVu, DichVu.DienTich, DichVu.ChiPhiThue, LoaiDichVu.TenLoaiDichVu  from DichVu
 inner join LoaiDichVu on DichVu.IDLoaiDichVu = LoaiDichVu.IDLoaiDichVu
-inner join HopDong on DichVu.IDDichVu = HopDong.IDDichVu
-where year(NgayLamHopDong) != 2019
-group by DichVu.TenDichVu;
+where not exists (select HopDong.NgayLamHopDong from HopDong where (HopDong.NgayLamHopDong between '2019/01/01' and curdate()) 
+and DichVu.IDDichVu = HopDong.IDDichVu);
+
+select IDDichVu, TenDichVu, DienTich, SoNguoiToiDa, ChiPhiThue, TenLoaiDichVu from DichVu
+inner join LoaiDichVu on DichVu.IDLoaiDichVu = LoaiDichVu.IDLoaiDichVu
+where exists(select HopDong.NgayLamHopDong from HopDong where year(HopDong.NgayLamHopDong) = 2018 and DichVu.IDDichVu = HopDong.IDDichVu)
+and not exists(select HopDong.NgayLamHopDong from HopDong where year(HopDong.NgayLamHopDong) = 2019 and DichVu.IDDichVu = HopDong.IDDichVu);
+
+select distinct(HoTen) from KhachHang;
+select * from KhachHang
+group by  HoTen;
+SELECT HoTen FROM KhachHang
+UNION
+SELECT HoTen FROM KhachHang;
+
+select meses.month , count(month(NgayLamHopDong)) as sokhachhangdangki
+FROM
+           (
+                     SELECT 1 AS MONTH
+                      UNION SELECT 2 AS MONTH
+                      UNION SELECT 3 AS MONTH
+                      UNION SELECT 4 AS MONTH
+                      UNION SELECT 5 AS MONTH
+                      UNION SELECT 6 AS MONTH
+                      UNION SELECT 7 AS MONTH
+                      UNION SELECT 8 AS MONTH
+                      UNION SELECT 9 AS MONTH
+                      UNION SELECT 10 AS MONTH
+                      UNION SELECT 11 AS MONTH
+                      UNION SELECT 12 AS MONTH
+           ) as meses
+left join HopDong on month(HopDong.NgayLamHopDong) = meses.month
+left join KhachHang on KhachHang.IDKhachHang = HopDong.IDKhachHang
+where year(HopDong.NgayLamHopDong) = '2019' or year(HopDong.NgayLamHopDong) is null or month(HopDong.NgayLamHopDong) is null
+group by meses.month
+order by meses.month;
+
+select HopDong.IDHopDong, HopDong.NgayLamHopDong, HopDong.NgayKetThuc, HopDong.TienDatCoc, count(HopDongChiTiet.IDHopDongChiTiet) as 'So Luong Dich Vu Di Kem' from HopDong
+left join HopDongChiTiet on HopDong.IDHopDong = HopDongChiTiet.IDHopDong
+left join DichVuDiKem on DichVuDiKem.IDDichVuDiKem = HopDongChiTiet.IDDichVuDiKem;
+
+select * from DichVuDiKem
+left join HopDongChiTiet on DichVuDiKem.IDDichVuDiKem = HopDongChiTiet.IDDichVuDiKem
+left join HopDong on
 
 
 
