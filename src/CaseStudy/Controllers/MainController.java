@@ -11,7 +11,6 @@ import java.util.*;
 public class MainController {
     private static Scanner sc = new Scanner(System.in);
     public static void displayMainMenu(){
-        sc.nextLine();
         System.out.println("---MAIN MENU---");
         System.out.println("\n1.Add new Service. "+
                 "\n2.Show Service. "+
@@ -536,9 +535,8 @@ public class MainController {
         myTicket.offer(customer4);
         myTicket.offer(customer5);
         while (!myTicket.isEmpty()) {
-            System.out.println(myTicket.remove().getNameCustomer() + " 1");
+            System.out.println(myTicket.remove().getNameCustomer());
         }
-        sc.nextLine();
         backMainMenu();
     }
 
@@ -565,15 +563,18 @@ public class MainController {
         fileCabinet.showFile.push(employee8);
         fileCabinet.showFile.push(employee9);
         fileCabinet.showFile.push(employee10);
-        System.out.println("List Employee in Resort: ");
-        while (!fileCabinet.showFile.isEmpty()) {
-            System.out.println("Id: " + fileCabinet.showFile.pop().getIdEmployee() + " Name Employee: "+ fileCabinet.showFile.pop().getNameEmployee());
-        }
-        System.out.println("Choose Employee You Want Find: ");
+//        System.out.println("List Employee in Resort: ");
+//        while (!fileCabinet.showFile.isEmpty()) {
+//            System.out.println("Id: " + fileCabinet.showFile.pop().getIdEmployee() + " Name Employee: "+ fileCabinet.showFile.pop().getNameEmployee());
+//        }
+//        for (int i = 0; i < fileCabinet.showFile.size() ; i++) {
+//            System.out.println();
+//        }
+        System.out.println("Enter Name Employee You Want Find: ");
         String choose = sc.nextLine();
         try {
             while (true) {
-                if (fileCabinet.showFile.peek().getIdEmployee() != choose) {
+                if (!(fileCabinet.showFile.peek().getNameEmployee()).equals(choose)) {
                     fileCabinet.showFile.pop();
                 } else {
                     System.out.println(fileCabinet.showFile.peek().toString());
@@ -583,15 +584,6 @@ public class MainController {
         } catch (EmptyStackException ex) {
             System.out.print("key invalid, please try again");
         }
-
-
-
-//
-//        for (int i = 0; i < fileCabinet.showFile.size(); i++) {
-//            if (i == choose ){
-//                System.out.println(fileCabinet.showFile.get(i).toString());
-//            }else System.out.println("Cannot Find This Employee!!!");
-//        }
         backMainMenu();
     }
     }

@@ -37,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CaseStudy/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseStudy/Controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaseSudy_Database/FuramaReSort.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaseSudy_Database/FuramaReSort.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../NgonNguLapTrinhJava/SystemTime.iml" beforeDir="false" />
@@ -247,6 +248,8 @@
       <workItem from="1572514852605" duration="935000" />
       <workItem from="1572571844204" duration="490000" />
       <workItem from="1572830825173" duration="3874000" />
+      <workItem from="1573137580402" duration="3882000" />
+      <workItem from="1573176457972" duration="5185000" />
     </task>
     <task id="LOCAL-00001" summary="bt">
       <created>1571299762519</created>
